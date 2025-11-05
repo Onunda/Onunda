@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Onunda
 **Software Engineer | AppSec| Mobile application development**
 
-💳 I design and build scalable, secure, and high-performance backend systems for the financial domain.  
+💳 I ...  
 With over 4 years of experience, I specialize in **xxx**.
 
 <!--
