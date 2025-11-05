@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Onunda
+**Software Engineer | AppSec| Mobile application development**
+
+💳 I design and build scalable, secure, and high-performance backend systems for the financial domain.  
+With over 4 years of experience, I specialize in **xxx**.
 
 <!--
 **Onunda/Onunda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+---
+
+
+
+---
+
