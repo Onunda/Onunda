@@ -18,9 +18,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Onunda&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onunda&show_icons=true&theme=radical)
+
+
 -->
 
 ---
+
+
 
 
 
