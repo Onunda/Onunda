@@ -22,14 +22,9 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onunda&show_icons=true&theme=radical)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Onunda&border_radius=6)](https://github.com/Onunda)
 -->
 
 ---
-
-
-
-
-
 ---
 
